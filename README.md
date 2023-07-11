@@ -1,6 +1,6 @@
-# [ADD YOUR USER NAME HERE] Project
+# Audrey's Project
 
-This is a very basic starting point for your projects.
+This is a very basic menu built with HTML and CSS to highlight a hamburger cart. 
 
 As you find useful information, remember to add it to the [class-notes](https://github.com/USU-ITLS-x265-23-summer/class-repo).
 
