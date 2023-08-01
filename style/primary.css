@@ -4,3 +4,4 @@ h1 {
 "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {}
   }
+  git config --global  pull.ff true
