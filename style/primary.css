@@ -1,3 +1,6 @@
 h1 {
     margin-left: 25px;
 }
+"features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  }
